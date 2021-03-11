@@ -5,18 +5,18 @@ def avg(data):
 avg({
     "count":3,
     "employees":[
-    {
-    "name":"Employee_A",
-    "salary":10000
-    },
-    {
-    "name":"Employee_B",
-    "salary":20000
-    },
-    {
-    "name":"Employee_C",
-    "salary":30000
-    }
+        {
+            "name":"Employee_A",
+            "salary":10000
+        },
+        {
+            "name":"Employee_B",
+            "salary":20000
+        },
+        {
+            "name":"Employee_C",
+            "salary":30000
+        }
     ]
 })
 </pre>
