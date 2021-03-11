@@ -3,20 +3,20 @@ Calculate the average salary of employees correctly, taking into account that th
 <pre>
 def avg(data):
 avg({
-"count":3,
-"employees":[
-{
-"name":"Alligator",
-"salary":10000
-},
-{
-"name":"Bee",
-"salary":20000
-},
-{
-"name":"Chick",
-"salary":30000
-}
-]
+    "count":3,
+    "employees":[
+    {
+    "name":"Employee_A",
+    "salary":10000
+    },
+    {
+    "name":"Employee_B",
+    "salary":20000
+    },
+    {
+    "name":"Employee_C",
+    "salary":30000
+    }
+    ]
 })
 </pre>
